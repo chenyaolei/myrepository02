@@ -5,6 +5,6 @@ public class test01 {
         System.out.println("创建分支fork1");
         System.out.println("主干master更新1");
         System.out.println("分支fork1更新1");
-
+        System.out.println("远程库更新1");
     }
 }
